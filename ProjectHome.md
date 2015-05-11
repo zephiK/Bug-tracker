@@ -1,0 +1,1 @@
+SimpleAOSP is a custom ROM based on AOSP, which aims at keeping it as simple as it can be, while improving stability and performance.
