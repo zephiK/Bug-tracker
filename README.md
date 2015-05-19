@@ -1,10 +1,10 @@
-#Euphoria-OS Bug Tracker
+#Chroma Bug Tracker
 ------------------------
 
 How to report an issue?
 -----------------------
 
-First and foremost, read the [FAQ](https://docs.google.com/document/d/1cwBCTR_Kz1cLbdUr3myp05PVfxK_f31Oty5K2PieFng/edit?usp=sharing) before you post anything. 
+First and foremost, read the [FAQ](http://zephik.com/chroma-faq/) before you post anything. 
 If the FAQ didn't help, check the tracker if your issue has been reported already. DO NOT create a duplicate report.
 
 Now, make sure you copy this template on to the issue description before you type it out. Makes things easier for you and us.
